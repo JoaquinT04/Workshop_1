@@ -1,2 +1,2 @@
 # Workshop_1
-Un proyecto del curso de Manipulación del DOM de Platzi
+Un Taller del curso de Manipulación del DOM de Platzi
