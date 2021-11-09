@@ -1,4 +1,4 @@
-# Snowpack Tailwind
+# Snowpack Tailwind uwu
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
