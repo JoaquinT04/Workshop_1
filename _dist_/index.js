@@ -68,6 +68,8 @@ async function recolectandoDatosApi(){
 		// Creo un contenedor para guardar todo lo anterior
 		const container = document.createElement("div");
 		container.append(image, title, price);
+		container.className = "w-64 bg-gray-300	rounded text-red-600	";
+
 
 		todosLosItems.push(container);
 	});
